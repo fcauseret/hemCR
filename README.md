@@ -1,4 +1,3 @@
-# Repository for the analysis of CR cells specification from the mouse cortical hem
 
 This page contains R codes and data related to the article :
 
