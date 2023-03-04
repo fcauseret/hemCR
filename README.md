@@ -10,8 +10,10 @@ bioRxiv 2022.11.18.517020
 
 ## Links to html reports
 [Preprocessing analysis report](./Quality-Control/Quality_Control.html)
+
 [Progenitors diversity](./ProgenitorsDiversity/ProgenitorDiversity.html)
-[Cell cycle analysis](./ProgenitorsDiversity/Cellcycle_analysis.html)
+
+[Cell cycle analysis](./ProgenitorsDiversity/Cellcycle_analysis.html)  
 [Cycling behaviours](./ProgenitorsDiversity/Cycling_Behaviours.html)
 [Cajal-Retzius trajectory](./CajalRetzius_trajectory/Cajal-Retzius_Trajectory.html)
 [Choroid plexus trajectory](./ChoroidPlexus_trajectory/ChoroidPlexus.html)
