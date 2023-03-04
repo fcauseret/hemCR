@@ -19,7 +19,7 @@ Matthieu X Moreau<sup>[![](https://orcid.org/sites/default/files/images/orcid_16
 [Cajal-Retzius trajectory](./CajalRetzius_trajectory/Cajal-Retzius_Trajectory.html)  
 [Choroid plexus trajectory](./ChoroidPlexus_trajectory/ChoroidPlexus.html)  
 [QC Gmnc KO](./Gmnc_KO/Quality-control.html)  
-[WT annotation](./WT_KO_integration/WT_annotation.html) 
+[WT annotation](./WT_KO_integration/WT_annotation.html)  
 [WT/KO integration](./Gmnc_KO/Seurat_integration.html)  
 [CR trajectory in Gmnc KO](./Gmnc_KO/KO_Trajectories.html)  
 [Comparison of CR trajectories between WT and KO](./Gmnc_KO/WT-KO_Trajectories_comparision.html)  
