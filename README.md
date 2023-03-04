@@ -7,7 +7,8 @@ bioRxiv 2022.11.18.517020
 
 
 ## Links to html reports
-[Cell quality control](./Quality-Control/Quality_Control.html)  
+[Cell quality control (using Seurat v2)](./Quality-Control/Quality_Control.html)  
+[Conversion to Seurat v4, normalization and broad clustering](./Quality-Control/Seurat_ConversionV4.html)  
 [Progenitors diversity](./ProgenitorsDiversity/ProgenitorDiversity.html)  
 [Cell cycle analysis](./ProgenitorsDiversity/Cellcycle_analysis.html)  
 [Cycling behaviours](./ProgenitorsDiversity/Cycling_Behaviours.html)  
