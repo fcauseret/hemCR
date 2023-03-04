@@ -15,7 +15,7 @@ Matthieu X Moreau<sup>[![](https://orcid.org/sites/default/files/images/orcid_16
 [Conversion to Seurat v4, normalization and broad clustering](./Quality-Control/Seurat_ConversionV4.html)  
 [Progenitors diversity](./ProgenitorsDiversity/ProgenitorDiversity.html)  
 [Cell cycle analysis](./ProgenitorsDiversity/Cellcycle_analysis.html)  
-[Cycling behaviours](./ProgenitorsDiversity/Cycling_Behaviours.html)  
+[Cell cycle variable genes](./ProgenitorsDiversity/Cycling_Behaviours.html)  
 [Cajal-Retzius trajectory](./CajalRetzius_trajectory/Cajal-Retzius_Trajectory.html)  
 [Choroid plexus trajectory](./ChoroidPlexus_trajectory/ChoroidPlexus.html)  
 [QC Gmnc KO](./Gmnc_KO/Quality-control.html)  
