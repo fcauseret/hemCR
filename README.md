@@ -7,18 +7,19 @@ bioRxiv 2022.11.18.517020
 
 
 ## Links to html reports
-[Preprocessing analysis report](./Quality-Control/Quality_Control.html)  
+[Cell quality control](./Quality-Control/Quality_Control.html)  
 [Progenitors diversity](./ProgenitorsDiversity/ProgenitorDiversity.html)  
 [Cell cycle analysis](./ProgenitorsDiversity/Cellcycle_analysis.html)  
 [Cycling behaviours](./ProgenitorsDiversity/Cycling_Behaviours.html)  
 [Cajal-Retzius trajectory](./CajalRetzius_trajectory/Cajal-Retzius_Trajectory.html)  
 [Choroid plexus trajectory](./ChoroidPlexus_trajectory/ChoroidPlexus.html)  
 [QC Gmnc KO](./Gmnc_KO/Quality-control.html)  
+[WT annotation](./WT_KO_integration/WT_annotation.html) 
 [WT/KO integration](./Gmnc_KO/Seurat_integration.html)  
-[Gmnc KO trajectories](./Gmnc_KO/KO_Trajectories.html)  
-[Gmnc KO choroid plexus trajectory](./Gmnc_KO/WT-KO_CPx_Trajectories.html)  
-[Comparison CR trajectories WT/KO](./Gmnc_KO/WT-KO_Trajectories_comparision.html)  
-[WT annotation](./WT_KO_integration/WT_annotation.html)  
+[CR trajectory in Gmnc KO](./Gmnc_KO/KO_Trajectories.html)  
+[Comparison of CR trajectories between WT and KO](./Gmnc_KO/WT-KO_Trajectories_comparision.html)  
+[Comparison of ChP trajectories between WT and KO](./Gmnc_KO/WT-KO_CPx_Trajectories.html)  
+ 
 
 
 
