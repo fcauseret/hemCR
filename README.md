@@ -10,7 +10,7 @@ For a user-friendly exploration of the data, consider our [Shiny App](https://ap
 ## Links to raw data and metadata (to be updated upon final publication)
 - Raw count matrix are deposited in XXX (Accession number) and can be dowloaded [here (inactive link)]()  
 - Sequencing reads are available [here (inactive link)]()  
-- Cells' metadata can be retreived [here (inactive link)]()  
+- Barcodes, coordinates and metadata of QC filtered cells can be retreived [here](./Metadata/)  
 
 ## Links to html reports
 [Cell quality control (using Seurat v2)](./Quality-Control/Quality_Control.html)  
