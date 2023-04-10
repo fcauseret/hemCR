@@ -8,8 +8,7 @@ Matthieu X Moreau<sup>[![](https://orcid.org/sites/default/files/images/orcid_16
 For a user-friendly exploration of the data, consider our [Shiny App](https://apps.institutimagine.org/mouse_hem/)
 
 ## Links to raw data and metadata (to be updated upon final publication)
-- Raw count matrix are deposited in XXX (Accession number) and can be dowloaded [here (inactive link)]()  
-- Sequencing reads are available [here (inactive link)]()  
+- Raw count matrix are deposited in GEO (Accession number [GSE220237](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE220237))  
 - Barcodes, coordinates and metadata of QC filtered cells can be retreived [here](./Metadata/)  
 
 ## Links to html reports
