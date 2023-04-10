@@ -7,11 +7,11 @@ Matthieu X Moreau<sup>[![](https://orcid.org/sites/default/files/images/orcid_16
 
 For a user-friendly exploration of the data, consider our [Shiny App](https://apps.institutimagine.org/mouse_hem/)
 
-## Links to raw data and metadata (to be updated upon final publication)
+## Links to raw data and metadata
 - Raw count matrix are deposited in GEO (Accession number [GSE220237](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE220237))  
 - Barcodes, coordinates and metadata of QC-filtered cells can be retreived [here](./Metadata/)  
 
-## Links to html reports
+## R codes
 [Cell quality control (using Seurat v2)](./Quality-Control/Quality_Control.html)  
 [Conversion to Seurat v4, normalization and broad clustering](./Quality-Control/Seurat_ConversionV4.html)  
 [Progenitors diversity](./ProgenitorsDiversity/ProgenitorDiversity.html)  
