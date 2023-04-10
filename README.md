@@ -9,7 +9,7 @@ For a user-friendly exploration of the data, consider our [Shiny App](https://ap
 
 ## Links to raw data and metadata (to be updated upon final publication)
 - Raw count matrix are deposited in GEO (Accession number [GSE220237](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE220237))  
-- Barcodes, coordinates and metadata of QC filtered cells can be retreived [here](./Metadata/)  
+- Barcodes, coordinates and metadata of QC-filtered cells can be retreived [here](./Metadata/)  
 
 ## Links to html reports
 [Cell quality control (using Seurat v2)](./Quality-Control/Quality_Control.html)  
